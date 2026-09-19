@@ -106,14 +106,6 @@ Deep learning project focused on tumor detection, segmentation and explainabilit
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiteja1019&theme=gruvbox" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: **Podishetti Saiteja**
