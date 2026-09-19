@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Saiteja's GitHub stats](https://github-stats-extended.vercel.app/api?username=saiteja1019&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **saiteja1019/saiteja1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
